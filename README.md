@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Derk Weijers 👋
 
-<!--
-**derkweijers/derkweijers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Derk, and I'm passionate about software development, aviation and spaceflight. Here, you'll find a collection of my projects, contributions, and explorations in the world of technology.
 
-Here are some ideas to get you started:
+## 🔭 Current Public Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [The Spaceflight News API](https://www.spaceflightnewsapi.net): The Most Complete Spaceflight Related News API 🚀
+
+## 🌱 Interests
+
+I'm currently exploring:
+
+- Java
+- theme-ui.com
+- Neo4j
+- SurrealDB
+
+## 📫 Contact Me
+
+Feel free to reach out to me through the following channels:
+
+- LinkedIn: https://www.linkedin.com/in/derkweijers
+- Twitter: @derkweijers
+- Mastodon: @derkweijers@qstars.it
+
+## 💼 Skills
+
+Here are some of the technologies and tools I work with:
+
+- Python
+- Javascript & Typescript
+- React & React Native
+- Kubernetes / Docker / Containers in general
