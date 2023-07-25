@@ -1,6 +1,6 @@
 # Hi there, I'm Derk Weijers 👋
 
-Welcome to my GitHub profile! I'm Derk, and I'm passionate about software development, aviation and spaceflight. Here, you'll find a collection of my projects, contributions, and explorations in the world of technology.
+Welcome to my GitHub profile! I'm Derk, and I'm passionate about software development, aviation and spaceflight. Here, you'll find a collection of my projects, contributions, and explorations in the world of technology (this text was totally GPT'ed).
 
 ## 🔭 Current Public Projects
 
