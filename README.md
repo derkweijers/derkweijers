@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm Derk, and I'm passionate about software develo
 I'm currently exploring:
 
 - theme-ui.com
-- Neo4j
 - SurrealDB
 
 ## 📫 Contact Me
@@ -19,7 +18,6 @@ I'm currently exploring:
 Feel free to reach out to me through the following channels:
 
 - LinkedIn: https://www.linkedin.com/in/derkweijers
-- Twitter: @derkweijers
 - Mastodon: @derkweijers@fosstodon.org
 
 ## 💼 Skills
